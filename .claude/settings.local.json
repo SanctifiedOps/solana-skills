@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nInitial release: Comprehensive Solana agent skills collection\n\n46 skills across 9 pillars for Solana devs, traders, and operators:\n\n- core-dev: Account model, Anchor, PDAs, security, cNFTs\n- tokens: SPL creation, Token-2022, tokenomics, distribution\n- trading: Pump.fun mechanics, Jupiter swaps, rug detection, whale tracking\n- launch: Readiness checklists, fair launch, snipers, stabilization\n- frontend: Wallet UX, signing, on-chain reads, security\n- infra: RPC resilience, Jito bundles, indexing, monitoring\n- bots: Wallet monitoring, trading bots, automation governance\n- marketing: Narratives, announcements, community ops\n- trust: Legitimacy signals, disclosures, reputation recovery\n\nIncludes CHEATSHEETS.md quick reference and detailed CONTRIBUTING guide.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git branch:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}

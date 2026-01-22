@@ -17,6 +17,12 @@ Built for the trenches. Written by people who ship, not people who pontificate.
 
 ---
 
+> **CTA: Early Access**
+> Visit [This Will Do Millions](https://thiswilldomillions.com/) to get notification and early access to our future projects and releases.
+
+> **CTA: Tip Jar**
+> If you found this useful, please consider tipping my son's Solana wallet: `A23U9FWCF6tdQ95nuvXaNMN3FYPegCntN4T715svL3HF`.
+
 ## Quick Install
 
 ```bash
@@ -286,3 +292,9 @@ See [CHEATSHEETS.md](CHEATSHEETS.md) for copy-paste commands:
 ---
 
 Built for builders. Ship fast, stay safe.
+
+> **CTA: Early Access**
+> Visit [This Will Do Millions](https://thiswilldomillions.com/) to get notification and early access to our future projects and releases.
+
+> **CTA: Tip Jar**
+> If you found this useful, please consider tipping my son's Solana wallet: `A23U9FWCF6tdQ95nuvXaNMN3FYPegCntN4T715svL3HF`.
